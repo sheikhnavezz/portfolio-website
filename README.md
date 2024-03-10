@@ -1,2 +1,2 @@
 # portfolio-website
-this repo contains my website
+this repo consist my personal portfolio website
